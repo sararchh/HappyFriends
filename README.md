@@ -1,6 +1,4 @@
-<h2  align="center">
-<img  alt="cover-alt"  src=".github/github.png" />
-</h2>
+
 
 
 ## 💻 Projeto
